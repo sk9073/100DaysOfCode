@@ -6,7 +6,7 @@
     BINARY SEARCH
     STACK
     COLLECTIONS DEQUE 
-    Dynamic Programming  
+    Greedy Algorithm  
 
 ### Concepts Leanred [Competeitive Programming Perspective]:
     Seieve of Erasthosthes
