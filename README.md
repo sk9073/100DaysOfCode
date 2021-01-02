@@ -5,7 +5,8 @@
     MERGE SORT 
     BINARY SEARCH
     STACK
-    COLLECTIONS DEQUE   
+    COLLECTIONS DEQUE 
+    Dynamic Programming  
 
 ### Concepts Leanred [Competeitive Programming Perspective]:
     Seieve of Erasthosthes
