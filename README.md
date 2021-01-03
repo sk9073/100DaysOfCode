@@ -7,6 +7,7 @@
     STACK
     COLLECTIONS DEQUE 
     Greedy Algorithms  
+    Divide and Conquer Algorithms
 
 ### Concepts Leanred [Competeitive Programming Perspective]:
     Seieve of Erasthosthes
