@@ -14,3 +14,4 @@
     Seieve of Erasthosthes
     Segmented Seive of Erasthosthes
     Kadane's Algorithm
+    Two Pointer Technique
