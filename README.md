@@ -15,3 +15,4 @@
     Segmented Seive of Erasthosthes
     Kadane's Algorithm
     Two Pointer Technique
+    EULER'S TOTIENT FUNCTION
