@@ -9,6 +9,7 @@
     Greedy Algorithms  
     Divide and Conquer Algorithms
     Dynamic Programming
+    Binary Tree 
 
 ### Concepts Leanred [Competeitive Programming Perspective]:
     Seieve of Erasthosthes
