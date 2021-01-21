@@ -11,6 +11,9 @@
     Dynamic Programming
     Binary Tree 
 
+    Week4
+        Linked List
+
 ### Concepts Leanred [Competeitive Programming Perspective]:
     Seieve of Erasthosthes
     Segmented Seive of Erasthosthes
