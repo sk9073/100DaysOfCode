@@ -13,6 +13,7 @@
 
     Week4
         Linked List
+        BST
 
 ### Concepts Leanred [Competeitive Programming Perspective]:
     Seieve of Erasthosthes
